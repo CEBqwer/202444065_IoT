@@ -2,7 +2,7 @@
 // 미세먼지 센서는 미세먼지 양을 전압으로 표현해줌
 
 int Vo = A0;
-int V_LED = 2;
+int V_LED = 2; // 미세먼지 센서 LED
 
 float Vo_value = 0;
 float Voltage = 0;
