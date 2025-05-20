@@ -35,6 +35,7 @@ $ influx
 pip install influxdb
 ```
 
+
 # Grafana Installation
   ## 1. Install the prerequisite packages
 ```
